@@ -1,0 +1,9 @@
+协议介绍
+https://www.cnblogs.com/mojies/p/17300963.html
+
+CSDNstm32解析
+https://blog.csdn.net/m0_51220742/article/details/123791062?fromshare=blogdetail&sharetype=blogdetail&sharerId=123791062&sharerefer=PC&sharesource=2502_93610512&sharefrom=from_link
+
+知乎 菜单说明
+《穿越机技术基础》富斯FS-i6/i6X/i6S遥控器设置手册 - bbsgyd的文章 - 知乎
+https://zhuanlan.zhihu.com/p/474173185
